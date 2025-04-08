@@ -1,1 +1,1 @@
-# python_for_algorithmic_trading_cookbook
+# Python for algorithmic trading cookbook
